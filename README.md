@@ -3,6 +3,8 @@ Best for running within Jupyter Notebook to be able to make use of mathematical 
 
 Currently requires SymPy and Jupyter but in the future these should be optional dependencies or even something entirely separate.
 
+There are other Python packages for dimensional analysis out there this is project is mainly just for the learning experience unless it turns out to be useful.
+
 ## TODO:
 * fine-grained expression manipulation (probably w/ SymPy)
 * quantity conversions (minutes to seconds, etc..), 1 minute + 30 seconds
